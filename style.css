@@ -12,7 +12,3 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   justify-content: center;
   align-items: center;
 }
-
-svg {
-    border: 1px solid lightgreen;
-}
